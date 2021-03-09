@@ -1,0 +1,6 @@
+a = input("Digite o seu primeiro nome: ")
+b = int(input("Digite sua idade: "))
+print("O tipo dos caracteres digitados foi:", type(a))
+print("O nome digitado foi:", a)
+print("O tipo dos caracteres digitados foi:", type(b))
+print("Sua idade é:", b)
